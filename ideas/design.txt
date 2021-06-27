@@ -1,0 +1,7 @@
+Navbar: About, Projects, Hobbies, Personality, Blog, Call me
+banner:
++ Title: Linh Mac is ______.
++ Option:  a technology lover, a dev, a blogger,  your friend
+
++ Title 2: And she has _____ projects.
++ Option: ReactJS, NodeJS, C-Sharp, other
